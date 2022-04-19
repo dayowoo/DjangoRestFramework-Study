@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     'rest_framework',
     'quickstart',
+    'snippets'
 ]
 
 # 페이지당 반환되는 개체 수 제어
